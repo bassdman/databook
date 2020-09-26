@@ -1,0 +1,19 @@
+{
+    "name": "databook",
+    "version": "1.0.0",
+    "description": "create visual databooks",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bassdman/databook.git"
+    },
+    "author": "Manuel Gelsen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bassdman/databook/issues"
+    },
+    "homepage": "https://github.com/bassdman/databook#readme"
+}
